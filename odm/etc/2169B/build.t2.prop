@@ -1,0 +1,44 @@
+
+# InitEnv
+
+# Build.java
+ro.build.id=RKQ1.211103.002
+ro.product.manufacturer=realme
+ro.product.brand=realme
+ro.product.model=RMX3370
+ro.product.name=RMX3370T2
+ro.product.device=RE879AL1
+ro.product.first_api_level=30
+ro.board.first_api_level=30
+ro.build.version.incremental=R.GDPR.202207221208
+ro.build.version.release=12
+ro.build.fingerprint=realme/RMX3370T2/RE879AL1:12/RKQ1.211103.002/R.GDPR.202207221208:user/release-keys
+ro.odm.build.fingerprint=realme/RMX3370T2/RE879AL1:12/RKQ1.211103.002/R.GDPR.202207221208:user/release-keys
+ro.odm.build.version.incremental=R.GDPR.202207221208
+ro.product.odm.brand=realme
+ro.product.odm.manufacturer=realme
+ro.product.odm.model=RMX3370
+ro.product.odm.device=RE879AL1
+ro.product.odm.name=RMX3370T2
+ro.odm.build.date=Fri Jul 22 12:39:27 CST 2022
+ro.odm.build.date.utc=1658464767
+ro.bootimage.build.fingerprint=realme/RMX3370T2/RE879AL1:12/RKQ1.211103.002/R.GDPR.202207221208:user/release-keys
+ro.bootimage.build.version.incremental=R.GDPR.202207221208
+ro.product.bootimage.brand=realme
+ro.product.bootimage.manufacturer=realme
+ro.product.bootimage.model=RMX3370
+ro.product.bootimage.device=RE879AL1
+ro.product.bootimage.name=RMX3370T2
+ro.bootimage.build.date=Fri Jul 22 12:39:27 CST 2022
+ro.bootimage.build.date.utc=1658464767
+ro.vendor.build.fingerprint=realme/RMX3370T2/RE879AL1:12/RKQ1.211103.002/R.GDPR.202207221208:user/release-keys
+ro.vendor.build.version.incremental=R.GDPR.202207221208
+ro.product.vendor.brand=realme
+ro.product.vendor.manufacturer=realme
+ro.product.vendor.model=RMX3370
+ro.product.vendor.device=RE879AL1
+ro.product.vendor.name=RMX3370T2
+ro.vendor.build.date=Fri Jul 22 12:39:27 CST 2022
+ro.vendor.build.date.utc=1658464767
+
+# OPPO
